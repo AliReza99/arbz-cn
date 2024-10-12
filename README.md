@@ -1,3 +1,1 @@
-it's just a try catch wrapper for sync functions. 
-
-just like https://github.com/scopsy/await-to-js but for sync functions 
+cn helper to make it easier to conditionally add Tailwind CSS classes
